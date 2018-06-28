@@ -26,3 +26,4 @@ Loop {                      ; Add a number after "Loop" if you want it to loop a
     if not SpamLoop
         break
 }
+ 
